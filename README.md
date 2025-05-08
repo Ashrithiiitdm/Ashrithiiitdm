@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">👋 Hi, I'm Gande Ashrith</h1>
+<h1 align="center">👋 Hi, I'm Gande Ashrith</h1>
 
 ## 💫 About Me:
 I’m a 3rd-year B.Tech CSE student specializing in Artificial Intelligence at IIITDM Kancheepuram. I love building end-to-end applications that use modern web technologies to solve real-world problems.
