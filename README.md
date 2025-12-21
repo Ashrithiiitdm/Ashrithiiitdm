@@ -5,7 +5,7 @@ I’m a 3rd-year B.Tech CSE student specializing in Artificial Intelligence at I
 
 
 💼 **Looking For**  
-Internships in the **software industry**, where I can apply my experience building scalable full-stack and AI-driven applications.
+Oppurtunities in the **software industry**, where I can apply my experience building scalable full-stack and AI-driven applications.
 
 ---
 
